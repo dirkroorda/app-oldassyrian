@@ -4,7 +4,7 @@
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/annotation/app-oldbabylonian/)](https://archive.softwareheritage.org/browse/origin/https://github.com/annotation/app-oldbabylonian/)
 
-[![DOI](https://zenodo.org/badge/172951151.svg)](https://zenodo.org/badge/latestdoi/172951151)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3909523.svg)](https://doi.org/10.5281/zenodo.3909523)
 
 This is a
 [Text-Fabric](https://github.com/annotation/text-fabric) app
