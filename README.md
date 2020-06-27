@@ -2,7 +2,7 @@
 
 # Old Assyrian Documents Letters
 
-[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/annotation/app-oldassyrian/)](https://archive.softwareheritage.org/browse/origin/https://github.com/annotation/app-oldassyrian/)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/annotation/app-oldassyrian/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/annotation/app-oldassyrian)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3909523.svg)](https://doi.org/10.5281/zenodo.3909523)
 
