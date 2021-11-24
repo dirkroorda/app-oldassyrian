@@ -3,8 +3,8 @@
 # Old Assyrian Documents Letters
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/annotation/app-oldassyrian/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/annotation/app-oldassyrian)
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3909523.svg)](https://doi.org/10.5281/zenodo.3909523)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 This is a
 [Text-Fabric](https://github.com/annotation/text-fabric) app
@@ -22,3 +22,8 @@ See also
 [transcription](https://github.com/Nino-cunei/tfFromAtf/blob/master/docs/transcription.md).
 
 ![shot](images/shot.png)
+
+# Author
+
+[Dirk Roorda](https://github.com/dirkroorda)
+
